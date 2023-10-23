@@ -21,8 +21,6 @@ Average Change: -8311.11
 Greatest Increase in Profits: Aug-16 ($1862002)
 Greatest Decrease in Profits: Feb-14 ($-1825558)
 
-
-
 ## PyPoll Instructions
 In this Challenge, you are tasked with helping a small, rural town modernize its vote-counting process.
 
